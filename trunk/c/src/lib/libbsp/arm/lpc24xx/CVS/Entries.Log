@@ -1,0 +1,13 @@
+A D/clock////
+A D/console////
+A D/i2c////
+A D/include////
+A D/irq////
+A D/make////
+A D/misc////
+A D/network////
+A D/rtc////
+A D/ssp////
+A D/startup////
+R D/network////
+R D/clock////

@@ -1,0 +1,21 @@
+#
+# $Id: block06.doc,v 1.1 2009/11/30 12:41:10 thomas Exp $
+#
+# Copyright 2008 Chris Johns (chrisj@rtems.org)
+#
+# The license and distribution terms for this file may be
+# found in the file LICENSE in this distribution or at
+# http://www.rtems.com/license/LICENSE.
+#
+
+This file describes the directives and concepts tested by this test set.
+
+test set name: block06
+
+directives:
+
+  TODO
+
+concepts:
+
+  TODO

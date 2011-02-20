@@ -1,0 +1,18 @@
+/base-gcc.add/1.19/Wed Sep  2 05:32:48 2009//Trtems-4-10-branch
+/base-gcj.add/1.15/Wed Sep  2 05:32:48 2009//Trtems-4-10-branch
+/base-gfortran.add/1.13/Wed Sep  2 05:32:48 2009//Trtems-4-10-branch
+/base-gnat.add/1.10/Sun Jul 22 07:08:30 2007//Trtems-4-10-branch
+/base-newlib.add/1.13/Wed Sep  2 05:32:48 2009//Trtems-4-10-branch
+/build.add/1.21/Mon Mar 22 12:57:01 2010//Trtems-4-10-branch
+/gccnewlib.add/1.62.2.5/Sat Jan 29 11:38:34 2011//Trtems-4-10-branch
+/install.add/1.33/Mon Mar 22 10:38:03 2010//Trtems-4-10-branch
+/prep.add/1.10.2.1/Mon Jan 10 08:51:10 2011//Trtems-4-10-branch
+/rpm-install.add/1.12/Thu Aug 27 06:31:31 2009//Trtems-4-10-branch
+/target-c++.add/1.16/Thu Feb 11 04:40:19 2010//Trtems-4-10-branch
+/target-gcc.add/1.26/Thu Mar 18 07:21:50 2010//Trtems-4-10-branch
+/target-gcj.add/1.12/Mon Aug 31 06:47:26 2009//Trtems-4-10-branch
+/target-gfortran.add/1.16/Thu Feb 11 04:40:19 2010//Trtems-4-10-branch
+/target-gnat.add/1.12/Mon Aug 31 06:47:27 2009//Trtems-4-10-branch
+/target-newlib.add/1.9/Mon Sep  7 04:10:02 2009//Trtems-4-10-branch
+/target-objc.add/1.13/Mon Aug 31 06:47:27 2009//Trtems-4-10-branch
+D

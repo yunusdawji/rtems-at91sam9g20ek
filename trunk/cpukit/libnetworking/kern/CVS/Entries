@@ -1,0 +1,8 @@
+/kern_mib.c/1.3/Sun May  1 04:00:43 2005//Trtems-4-10-branch
+/kern_subr.c/1.5/Wed Feb 11 13:21:10 2009//Trtems-4-10-branch
+/kern_sysctl.c/1.16/Tue Aug 19 18:47:54 2008//Trtems-4-10-branch
+/uipc_domain.c/1.6/Wed Feb 11 03:07:33 2009//Trtems-4-10-branch
+/uipc_mbuf.c/1.10/Mon Sep  1 03:35:37 2008//Trtems-4-10-branch
+/uipc_socket.c/1.10/Mon Sep  1 03:35:37 2008//Trtems-4-10-branch
+/uipc_socket2.c/1.9/Mon Sep  1 03:35:37 2008//Trtems-4-10-branch
+D

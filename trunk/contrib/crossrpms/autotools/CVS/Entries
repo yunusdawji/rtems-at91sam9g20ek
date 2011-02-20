@@ -1,0 +1,13 @@
+/.cvsignore/1.1/Mon Jul 24 08:51:15 2006//Trtems-4-10-branch
+/Makefile.am/1.23.2.3/Wed Sep 29 14:17:06 2010//Trtems-4-10-branch
+/autoconf-sources.add/1.1.6.1/Fri Sep 24 13:17:15 2010//Trtems-4-10-branch
+/autoconf.add/1.11.2.2/Wed Sep 29 14:15:21 2010//Trtems-4-10-branch
+/autoconf.am/1.7/Mon Jul 13 14:26:42 2009//Trtems-4-10-branch
+/automake-sources.add/1.2/Mon May 18 07:55:51 2009//Trtems-4-10-branch
+/automake.add/1.13.2.1/Tue Sep  7 15:04:57 2010//Trtems-4-10-branch
+/automake.am/1.6/Sun Feb 22 04:19:52 2009//Trtems-4-10-branch
+/rtems-4.10-autoconf.spec/1.8.2.2/Wed Sep 29 14:17:19 2010//Trtems-4-10-branch
+/rtems-4.10-automake.spec/1.8.2.1/Tue Sep  7 15:05:38 2010//Trtems-4-10-branch
+/target-autoconf.add/1.2/Wed Feb 14 17:21:30 2007//Trtems-4-10-branch
+/target-automake.add/1.2/Wed Feb 14 15:50:37 2007//Trtems-4-10-branch
+D

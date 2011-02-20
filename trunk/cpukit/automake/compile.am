@@ -1,0 +1,7 @@
+##
+## $Id: compile.am,v 1.27.2.1 2010/09/29 14:21:35 ralf Exp $
+##
+
+AM_CPPFLAGS = @RTEMS_CPPFLAGS@
+AM_CFLAGS =
+AM_CCASFLAGS = @RTEMS_CCASFLAGS@

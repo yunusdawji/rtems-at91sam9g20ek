@@ -1,0 +1,46 @@
+#
+#  README,v 1.2 1998/01/16 16:56:31 joel Exp
+#
+# @(#)README        08/20/96     1.2
+#
+
+BSP NAME:           loongson
+BOARD:              Lemote Fuloong Mini-PC
+BUS:                PCI
+CPU FAMILY:         mips
+CPU:                Loongson2f
+COPROCESSORS:       CP1
+MODE:               32 bit mode
+
+DEBUG MONITOR:      PMON
+
+PERIPHERALS
+===========
+TIMERS:             Loongson internal
+SERIAL PORTS:       PMON controlled
+REAL-TIME CLOCK:    none
+DMA:                none
+VIDEO:              none
+SCSI:               none
+NETWORKING:         none
+
+DRIVER INFORMATION
+==================
+CLOCK DRIVER:       LOONGSON internal
+IOSUPP DRIVER:      N/A
+SHMSUPP:            N/A 
+TIMER DRIVER:       LOONGSON internal
+TTY DRIVER:         uses PMON
+
+STDIO
+=====
+PORT:               Console port 0
+ELECTRICAL:         RS-232
+BAUD:               115200
+BITS PER CHARACTER: 8
+PARITY:             None
+STOP BITS:          1
+
+NOTES
+=====
+
