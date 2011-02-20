@@ -1,0 +1,14 @@
+#
+#  Liu Xing Hua <xhl.physics@gmail.com>
+#
+
+This is the BSP for ATMEL's AT91SAM9G20-EK. 
+
+This single board computer using the 
+Atmel AT919G20 CPU.The SD and Compact Flash and USB (host and device) interfaces is not supported.
+        
+Clock speed        396MHz     
+External memory    64MB SDRAM    
+Flash memory       256MB Strata       
+
+?? Some GPIO or interrupts moved around.

@@ -1,0 +1,13 @@
+A D/apt-conf////
+A D/crossrpms////
+A D/cygwin////
+A D/freebsd////
+A D/mingw////
+A D/repo-conf////
+A D/rtemsrpms////
+A D/solaris////
+R D/solaris////
+R D/repo-conf////
+R D/freebsd////
+R D/cygwin////
+R D/apt-conf////

@@ -1,0 +1,23 @@
+#
+#  $Id: sp38.doc,v 1.1 2009/11/09 14:25:28 joel Exp $
+#
+#  COPYRIGHT (c) 1989-2009.
+#  On-Line Applications Research Corporation (OAR).
+#
+#  The license and distribution terms for this file may be
+#  found in the file LICENSE in this distribution or at
+#  http://www.rtems.com/license/LICENSE.
+#
+
+This file describes the directives and concepts tested by this test set.
+
+test set name:  sp38
+
+directives:
+
+  rtems_signal_catch
+  rtems_signal_send
+
+concepts:
+
++ Ensure that sending a Classic API signal from an ISR operates properly.

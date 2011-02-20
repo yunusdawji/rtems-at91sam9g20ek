@@ -1,0 +1,26 @@
+/README.ds1643/1.1/Thu Jul 30 19:51:03 1998//Trtems-4-10-branch
+/README.icm7170/1.1/Wed Jul 29 00:01:56 1998//Trtems-4-10-branch
+/README.m48t08/1.1/Wed Jul 29 00:01:56 1998//Trtems-4-10-branch
+/README.m48t18/1.1/Thu Jul 30 19:51:03 1998//Trtems-4-10-branch
+/README.mc146818a/1.1/Mon Oct 11 15:00:23 2004//Trtems-4-10-branch
+/STATUS/1.2/Thu Jul 30 21:30:46 1998//Trtems-4-10-branch
+/ds1375-rtc.h/1.6/Sun Apr 25 21:18:05 2010//Trtems-4-10-branch
+/ds1375.c/1.9/Sun Apr 25 21:18:06 2010//Trtems-4-10-branch
+/icm7170.c/1.9/Sun Apr 25 21:18:06 2010//Trtems-4-10-branch
+/icm7170.h/1.5/Tue Mar 23 09:59:51 2004//Trtems-4-10-branch
+/icm7170_reg.c/1.7/Sun Apr 25 21:18:06 2010//Trtems-4-10-branch
+/icm7170_reg2.c/1.6/Tue Apr 20 10:43:39 2004//Trtems-4-10-branch
+/icm7170_reg4.c/1.6/Tue Apr 20 10:43:39 2004//Trtems-4-10-branch
+/icm7170_reg8.c/1.6/Tue Apr 20 10:43:39 2004//Trtems-4-10-branch
+/m48t08.c/1.8/Mon Sep 22 11:45:25 2008//Trtems-4-10-branch
+/m48t08.h/1.7/Tue Apr 20 10:43:39 2004//Trtems-4-10-branch
+/m48t08_reg.c/1.7/Sun Apr 25 21:18:06 2010//Trtems-4-10-branch
+/m48t08_reg2.c/1.6/Tue Apr 20 10:43:39 2004//Trtems-4-10-branch
+/m48t08_reg4.c/1.6/Tue Apr 20 10:43:39 2004//Trtems-4-10-branch
+/m48t08_reg8.c/1.6/Tue Apr 20 10:43:39 2004//Trtems-4-10-branch
+/mc146818a.c/1.7/Mon Nov 30 03:42:53 2009//Trtems-4-10-branch
+/mc146818a.h/1.6/Mon Nov 30 03:42:53 2009//Trtems-4-10-branch
+/mc146818a_ioreg.c/1.3/Mon Nov 22 22:27:19 2004//Trtems-4-10-branch
+/rtc.h/1.12/Sun Apr 25 21:18:06 2010//Trtems-4-10-branch
+/rtcprobe.c/1.4/Sun Sep  7 03:38:38 2008//Trtems-4-10-branch
+D
