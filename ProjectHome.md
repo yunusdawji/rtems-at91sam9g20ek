@@ -1,0 +1,1 @@
+RTEMS is a full featured RTOS.  AT91SAM9G20-EK is an evaluation board produced by ATMEL. Running RTEMS on AT91SAM9G20-EK isn't a bad idea.
